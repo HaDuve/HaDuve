@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaDuve
-- 👀 I’m interested in Growth Mindsets, Game Theory, playing Music
-- 🌱 I’m currently learning how to develop an Expense Tracker App with React Native
+- 👀 I’m interested in Travelling, Surfing, Music, Mindset
+- 🌱 I’m currently developing an Expense Tracker App with React Native called "Budget For Nomads"
 - 💞️ I’m looking to collaborate on publishing Apps
 - 📫 How to reach me hannes.duve@outlook.com
 
